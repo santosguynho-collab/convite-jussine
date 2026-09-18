@@ -1,0 +1,26 @@
+CONVITE JUSSINE — ESTRUTURA PRONTA PARA HOSPEDAGEM
+
+ARQUIVOS
+- index.html
+- VIDEO CONVITE JUSSINE.mp4
+
+COMO PUBLICAR
+1. Envie os dois arquivos para a mesma pasta do seu serviço de hospedagem.
+2. O arquivo de entrada deve ser index.html.
+3. Abra o endereço HTTPS no Android ou iPhone.
+4. Não renomeie o MP4 sem alterar também o nome dentro do index.html.
+
+COMPATIBILIDADE
+- Android: Chrome e navegadores modernos.
+- iOS/iPadOS: Safari e navegadores modernos.
+- Vídeo vertical 9:16.
+- Não requer aplicativo instalado.
+- HTTPS é recomendado para publicação.
+
+INTERATIVIDADE
+Os três ícones do final possuem áreas de toque transparentes. Ao tocar em qualquer um,
+o vídeo pausa e abre a página de contatos. O vídeo original não é reencodado nem editado.
+
+PRESERVAÇÃO
+Não alterar fontes, textos, animações, efeitos, transições, imagens, cores, timing ou proporções
+do vídeo. A única camada adicional é a interatividade invisível dos ícones e a página de contatos.
